@@ -1,0 +1,22 @@
+h1{font-family: 'Syne Tactile', cursive;
+font-size:300%;}
+table{margin-left:10%;}
+td{border-style:solid;
+border-color:white;
+height:300px;
+padding:90px;}
+#one{
+background-color:blue;
+color:blue;}
+#two{
+background-color:aquamarine;
+color:aquamarine;}
+#three{
+background-color:grey;
+color:grey;}
+#four{
+background-color:yellow;
+color:yellow;}
+#five{
+background-color:red;
+color:red;}
